@@ -1,0 +1,18 @@
+{
+  "user": [
+    {
+      "id": "Kisan",
+      "name": "Kisan Panda",
+      "password": "kisanpanda",
+      "emai": "kisanpanda@test.com",
+      "phone": ""
+    },
+    {
+      "id": "Mayurakshi",
+      "name": "Mayurakshi Mishra",
+      "password": "kisanpanda",
+      "emai": "kisanpanda@test.com",
+      "phone": ""
+    }
+  ]
+}
